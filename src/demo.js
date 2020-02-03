@@ -31,9 +31,7 @@ class Cat {
     older(otherCat) {
         otherCat.age += this.power
         console.log(`otherHero has ${otherHero.health}`);
-
     }
-
 
 }
 

@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import MovieList from './MovieList'
-//import CatList from './MovieList'
+
 
 function App() {
   return (
@@ -13,14 +13,6 @@ function App() {
     </div>
   );
 }
-// function App() {
-//   return (
-//     <div className="App">
-//       <CatList />
-
-//     </div>
-//   );
-// }
 
 
 
